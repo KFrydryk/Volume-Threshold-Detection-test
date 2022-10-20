@@ -1,0 +1,8 @@
+#ignore vscode setup
+\.vscode
+
+#ignore build files
+bin
+
+#ignore docs until not ready
+docs
